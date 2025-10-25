@@ -44,3 +44,17 @@
     min-height: 100%;
     width: 300px;
 }
+
+.app-column-3{
+    background: rgb(104, 44, 44);
+    color: black;
+    min-height: 100%;
+    width: 300px;
+}
+
+.app-column-4{
+    background: rgb(61, 104, 44);
+    color: black;
+    min-height: 100%;
+    width: 300px;
+}
